@@ -250,10 +250,10 @@
 //     // if (document.documentElement.scrollHeight - document.documentElement.scrollTop == document.documentElement.clientHeight) {
 // 	// 	window.scrollTo(0, 100);
 // 	// }
-//     //4
+// }
+//4
 // function btnClick() {
 //     let elem = document.getElementById('elem');
 // 	elem.style.width = elem.offsetWidth * 2 + 'px';
 // 	elem.style.height = elem.offsetHeight * 2 + 'px';
-// }
 // }
